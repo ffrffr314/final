@@ -1,0 +1,26 @@
+header {
+    padding: 0px 24px;
+}
+
+header nav {
+    gap: 0px;
+    justify-content: space-around !important;
+    width: 100%;
+}
+
+.about-site {
+    padding: 84px 24px 125px;
+}
+
+.show-by-room {
+    padding: 0px 24px;
+}
+
+footer {
+    padding: 82px 24px 208px;
+}
+
+.footer-social__links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
